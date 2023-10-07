@@ -1,0 +1,63 @@
+Rating: None
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/zaboty-zapertoy-princessy-vampirov-2428">Заботы запертой принцессы вампиров</a></div>
+--------------------
+Rating: None
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/semya-shpiona-2-2394">Семья шпиона 2</a></div>
+--------------------
+Rating: None
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/dalekiy-paladin-2-2399">Далёкий паладин 2</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,6</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/magicheskaya-bitva-2-2332">Магическая битва 2</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/ohotnik-h-ohotnik-2-280">Охотник х Охотник 2</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/krutoy-uchitel-onidzuka-556">Крутой учитель Онидзука</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/bleach-sennen-kessen-hen-2129">Блич: Тысячелетняя кровавая война</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/vosemdesyat-shest-2-1891">Восемьдесят шесть. Часть 2</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/kod-gias-vosstavshiy-lelush-2-286">Код Гиас: Восставший Лелуш 2</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/vayolet-evergarden-film-1778">Вайолет Эвергарден. Фильм</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/unesennye-prizrakami-268">Унесённые призраками</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/klinok-rassekayuschiy-demonov-kvartal-krasnyh-fonarey-1876">Клинок, рассекающий демонов: Квартал красных фонарей</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/provozhayuschaya-v-posledniy-put-friren-2430">Провожающая в последний путь Фрирен</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/voshozhdenie-v-teni-2-2390">Восхождение в тени! 2</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/reinkarnaciya-bezrabotnogo-istoriya-o-priklyucheniyah-v-drugom-mire-2-1893">Реинкарнация безработного: История о приключениях в другом мире. Часть 2</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/magistr-dyavolskogo-kulta-3-1858">Магистр дьявольского культа 3</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/stalnoy-alhimik-bratstvo-126">Стальной алхимик: Братство</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/agent-vremeni-1780">Агент времени</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/gurren-lagann1-829">Гуррен-Лаганн</a></div>
+--------------------
+Rating: <div class="p-rate-flag__text">9,5</div>
+Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/hodyachiy-zamok-269">Ходячий замок</a></div>
+--------------------
+Rating: None
+Name: None
+--------------------
