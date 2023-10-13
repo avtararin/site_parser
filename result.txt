@@ -1,63 +1,122 @@
-Rating: None
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/zaboty-zapertoy-princessy-vampirov-2428">Заботы запертой принцессы вампиров</a></div>
+Rating: 9,6
+Name: Магическая битва 2
 --------------------
-Rating: None
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/semya-shpiona-2-2394">Семья шпиона 2</a></div>
+Rating: 9,5
+Name: Охотник х Охотник 2
 --------------------
-Rating: None
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/dalekiy-paladin-2-2399">Далёкий паладин 2</a></div>
+Rating: 9,5
+Name: Крутой учитель Онидзука
 --------------------
-Rating: <div class="p-rate-flag__text">9,6</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/magicheskaya-bitva-2-2332">Магическая битва 2</a></div>
+Rating: 9,5
+Name: Блич: Тысячелетняя кровавая война
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/ohotnik-h-ohotnik-2-280">Охотник х Охотник 2</a></div>
+Rating: 9,5
+Name: Восемьдесят шесть. Часть 2
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/krutoy-uchitel-onidzuka-556">Крутой учитель Онидзука</a></div>
+Rating: 9,5
+Name: Код Гиас: Восставший Лелуш 2
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/bleach-sennen-kessen-hen-2129">Блич: Тысячелетняя кровавая война</a></div>
+Rating: 9,5
+Name: Вайолет Эвергарден. Фильм
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/vosemdesyat-shest-2-1891">Восемьдесят шесть. Часть 2</a></div>
+Rating: 9,5
+Name: Унесённые призраками
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/kod-gias-vosstavshiy-lelush-2-286">Код Гиас: Восставший Лелуш 2</a></div>
+Rating: 9,5
+Name: Клинок, рассекающий демонов: Квартал красных фонарей
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/vayolet-evergarden-film-1778">Вайолет Эвергарден. Фильм</a></div>
+Rating: 9,5
+Name: Реинкарнация безработного: История о приключениях в другом мире. Часть 2
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/unesennye-prizrakami-268">Унесённые призраками</a></div>
+Rating: 9,5
+Name: Магистр дьявольского культа 3
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/klinok-rassekayuschiy-demonov-kvartal-krasnyh-fonarey-1876">Клинок, рассекающий демонов: Квартал красных фонарей</a></div>
+Rating: 9,5
+Name: Стальной алхимик: Братство
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/provozhayuschaya-v-posledniy-put-friren-2430">Провожающая в последний путь Фрирен</a></div>
+Rating: 9,5
+Name: Агент времени
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/voshozhdenie-v-teni-2-2390">Восхождение в тени! 2</a></div>
+Rating: 9,5
+Name: Гуррен-Лаганн
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/reinkarnaciya-bezrabotnogo-istoriya-o-priklyucheniyah-v-drugom-mire-2-1893">Реинкарнация безработного: История о приключениях в другом мире. Часть 2</a></div>
+Rating: 9,5
+Name: Ходячий замок
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/magistr-dyavolskogo-kulta-3-1858">Магистр дьявольского культа 3</a></div>
+Rating: 9,5
+Name: Корзинка фруктов: Финал
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/stalnoy-alhimik-bratstvo-126">Стальной алхимик: Братство</a></div>
+Rating: 9,5
+Name: Необъятный океан
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/agent-vremeni-1780">Агент времени</a></div>
+Rating: 9,5
+Name: Агент времени 2
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/gurren-lagann1-829">Гуррен-Лаганн</a></div>
+Rating: 9,5
+Name: Ван-Пис
 --------------------
-Rating: <div class="p-rate-flag__text">9,5</div>
-Name: <div class="h5 font-weight-normal mb-1"><a href="https://animego.org/anime/hodyachiy-zamok-269">Ходячий замок</a></div>
+Rating: 9,4
+Name: Очень приятно, Бог: Будьте счастливы
 --------------------
-Rating: None
-Name: None
+--------------------
+Rating: 9,6
+Name: Магическая битва 2
+--------------------
+Rating: 9,5
+Name: Охотник х Охотник 2
+--------------------
+Rating: 9,5
+Name: Крутой учитель Онидзука
+--------------------
+Rating: 9,5
+Name: Блич: Тысячелетняя кровавая война
+--------------------
+Rating: 9,5
+Name: Восемьдесят шесть. Часть 2
+--------------------
+Rating: 9,5
+Name: Код Гиас: Восставший Лелуш 2
+--------------------
+Rating: 9,5
+Name: Вайолет Эвергарден. Фильм
+--------------------
+Rating: 9,5
+Name: Унесённые призраками
+--------------------
+Rating: 9,5
+Name: Клинок, рассекающий демонов: Квартал красных фонарей
+--------------------
+Rating: 9,5
+Name: Реинкарнация безработного: История о приключениях в другом мире. Часть 2
+--------------------
+Rating: 9,5
+Name: Магистр дьявольского культа 3
+--------------------
+Rating: 9,5
+Name: Стальной алхимик: Братство
+--------------------
+Rating: 9,5
+Name: Агент времени
+--------------------
+Rating: 9,5
+Name: Гуррен-Лаганн
+--------------------
+Rating: 9,5
+Name: Ходячий замок
+--------------------
+Rating: 9,5
+Name: Корзинка фруктов: Финал
+--------------------
+Rating: 9,5
+Name: Необъятный океан
+--------------------
+Rating: 9,5
+Name: Агент времени 2
+--------------------
+Rating: 9,5
+Name: Ван-Пис
+--------------------
+Rating: 9,4
+Name: Очень приятно, Бог: Будьте счастливы
+--------------------
 --------------------

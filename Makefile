@@ -16,4 +16,5 @@ test:
 	pytest
 
 clean:
-	rm -rf $(VENV_NAME)
+	rm -rf $(VENV_NAME) .mypy_cache .pytest_cache
+	> result.txt
