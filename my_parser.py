@@ -1,16 +1,33 @@
 from bs4 import BeautifulSoup
 import requests
 
-url = "https://animego.org/anime?sort=r.rating&direction=desc"
-request = requests.get(url)
+def get_anime_data(URL):
+    request = requests.get(URL)
+    soup = BeautifulSoup(request.text, "html.parser")
+    return soup.find_all("div", class_="col-12")
 
-soup = BeautifulSoup(request.text, "html.parser")
+def get_anime_rating(anime_info):
+    anime_rating = anime_info.find("div", class_="p-rate-flag__text")
+    return anime_rating.get_text(strip=True) if anime_rating else ""
 
-teme = soup.find_all("div", class_="col-12")
+def get_anime_name(anime_info):
+    anime_name = anime_info.find("div", class_="mb-1")
+    return anime_name.get_text(strip=True) if anime_name else ""
 
-for temes in teme:
-    anime_rating = temes.find("div", class_="p-rate-flag__text")
-    anime_name = temes.find("div", class_="mb-1")
-    print("Rating:", anime_rating)
-    print("Name:", anime_name)
+def print_anime_info(anime_info):
+    anime_rating = get_anime_rating(anime_info)
+    anime_name = get_anime_name(anime_info)
+    if anime_rating:
+        print("Rating:", anime_rating)
+    if anime_name:
+        print("Name:", anime_name)
     print("--------------------")
+
+def parse_anime_data(URL):
+    anime_data = get_anime_data(URL)
+    for anime_info in anime_data:
+        print_anime_info(anime_info)
+
+if __name__ == "main":
+    URL = "https://animego.org/anime?sort=r.rating&direction=desc"
+    parse_anime_data(URL)
