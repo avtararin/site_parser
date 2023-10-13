@@ -12,6 +12,8 @@ venv:
 run:
 	. $(VENV_NAME)/bin/activate && pip -V
 	python3 my_parser.py >> result.txt
+test:
+	pytest
 
 clean:
 	rm -rf $(VENV_NAME)

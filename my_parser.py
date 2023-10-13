@@ -2,13 +2,29 @@
 import bs4
 from bs4 import BeautifulSoup
 import requests
+from requests import Timeout
 
 
 def get_anime_data(url: str):
     '''This function gets data from the site'''
-    request = requests.get(url, timeout=10)
-    soup = BeautifulSoup(request.text, "html.parser")
-    return soup("div", class_="col-12")
+    try:
+        response = requests.get(url, timeout=10)
+        if response.status_code != 200:
+            print('Ошибка:')
+            print(response.status_code)
+            return response.status_code
+        soup = BeautifulSoup(response.text, "html.parser")
+        return soup.find_all("div", class_="col-12")
+    except Timeout:
+        print('Ошибка таймаута')
+        return 504
+    except  ConnectionError:
+        print('Ошибка соединения')
+        return 503
+    except:
+        print('Не опознанная ошибка')
+        return 404
+
 
 def get_anime_rating(anime_info: bs4.element.Tag):
     '''This function gets anime rating'''
@@ -35,7 +51,6 @@ def parse_anime_data(url: str):
     anime_data = get_anime_data(url)
     for anime_info in anime_data:
         print_anime_info(anime_info)
-
 if __name__ == "__main__":
     URL = "https://animego.org/anime?sort=r.rating&direction=desc"
     parse_anime_data(URL)
