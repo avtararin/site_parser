@@ -1,20 +1,27 @@
+'''This module contains functions for parsing an anime site'''
+import bs4
 from bs4 import BeautifulSoup
 import requests
 
-def get_anime_data(URL):
-    request = requests.get(URL)
-    soup = BeautifulSoup(request.text, "html.parser")
-    return soup.find_all("div", class_="col-12")
 
-def get_anime_rating(anime_info):
+def get_anime_data(url: str):
+    '''This function gets data from the site'''
+    request = requests.get(url, timeout=10)
+    soup = BeautifulSoup(request.text, "html.parser")
+    return soup("div", class_="col-12")
+
+def get_anime_rating(anime_info: bs4.element.Tag):
+    '''This function gets anime rating'''
     anime_rating = anime_info.find("div", class_="p-rate-flag__text")
     return anime_rating.get_text(strip=True) if anime_rating else ""
 
-def get_anime_name(anime_info):
+def get_anime_name(anime_info: bs4.element.Tag):
+    '''This function gets anime name'''
     anime_name = anime_info.find("div", class_="mb-1")
     return anime_name.get_text(strip=True) if anime_name else ""
 
-def print_anime_info(anime_info):
+def print_anime_info(anime_info: bs4.element.Tag):
+    '''Anime information output function(rating and title)'''
     anime_rating = get_anime_rating(anime_info)
     anime_name = get_anime_name(anime_info)
     if anime_rating:
@@ -23,11 +30,12 @@ def print_anime_info(anime_info):
         print("Name:", anime_name)
     print("--------------------")
 
-def parse_anime_data(URL):
-    anime_data = get_anime_data(URL)
+def parse_anime_data(url: str):
+    '''The function performs parsing of the site, displaying information about anime'''
+    anime_data = get_anime_data(url)
     for anime_info in anime_data:
         print_anime_info(anime_info)
 
-if __name__ == "main":
+if __name__ == "__main__":
     URL = "https://animego.org/anime?sort=r.rating&direction=desc"
     parse_anime_data(URL)
